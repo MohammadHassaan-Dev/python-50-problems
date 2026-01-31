@@ -12,4 +12,5 @@ def add_digits(num):
 
 
 num = 38
+
 print(add_digits(num))
